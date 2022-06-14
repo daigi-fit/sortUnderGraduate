@@ -5,5 +5,8 @@
   "main": "main.js",
   "repository": "s",
   "author": "SouTamura",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.1.0"
+  }
 }
